@@ -1,2 +1,11 @@
-# dsc106_final
-Final Project for DSC 106
+Scrolling
+    introduction: concepts, events
+    background: https://mathisonian.github.io/kde/
+
+    event：one point of line plot
+        zoom in and explain, show data
+        
+        predict
+
+
+        
